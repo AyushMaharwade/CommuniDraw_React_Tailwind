@@ -1,3 +1,6 @@
+SCREENSHOT
+![Screenshot 2024-02-04 133915](https://github.com/AyushMaharwade/CommuniDraw_React_Tailwind/assets/151525499/1f8bf59d-eff6-45bf-9291-7ac8c9decd60)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
